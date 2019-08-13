@@ -8,7 +8,7 @@ void __VERIFIER_assert(int cond) {
 }
 
 int main(void) {
-  unsigned int x = 10;
+  unsigned short x = 10;
 
   while (x >= 10) {
     x += 2;
